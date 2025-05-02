@@ -14,8 +14,8 @@ echo.
 echo Step 2: Creating environment file...
 (
 echo # Add your API keys below
-echo GEMINI_API_KEY=AIzaSyC6vMhyl4YEjqaPMBXPTRdZtNUSKYewotI
-echo ANTHROPIC_API_KEY=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
+echo GEMINI_API_KEY=
+echo ANTHROPIC_API_KEY=
 ) > .env
 
 echo.
