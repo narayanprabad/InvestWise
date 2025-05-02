@@ -1,0 +1,77 @@
+{
+  "users": {
+    "1": {
+      "name": "Narayanan Ramachandran",
+      "age": 35,
+      "location": "Mumbai, India",
+      "riskProfile": "conservative",
+      "locale": "IN",
+      "currency": "INR",
+      "goals": [
+        {
+          "type": "retirement",
+          "targetAmount": 10000000,
+          "timeframe": 25,
+          "description": "Retirement funds"
+        }
+      ],
+      "id": 1,
+      "createdAt": "2025-05-02T11:26:36.694Z"
+    },
+    "2": {
+      "name": "Sarah Johnson",
+      "age": 42,
+      "location": "New York, USA",
+      "riskProfile": "moderate",
+      "locale": "US",
+      "currency": "USD",
+      "goals": [
+        {
+          "type": "education",
+          "targetAmount": 150000,
+          "timeframe": 12,
+          "description": "College fund for kids"
+        }
+      ],
+      "id": 2,
+      "createdAt": "2025-05-02T11:26:36.697Z"
+    },
+    "3": {
+      "name": "James Williams",
+      "age": 28,
+      "location": "London, UK",
+      "riskProfile": "aggressive",
+      "locale": "UK",
+      "currency": "GBP",
+      "goals": [
+        {
+          "type": "homebuying",
+          "targetAmount": 350000,
+          "timeframe": 5,
+          "description": "Down payment for a house"
+        }
+      ],
+      "id": 3,
+      "createdAt": "2025-05-02T11:26:36.698Z"
+    }
+  },
+  "chats": {
+    "1": [
+      {
+        "userId": 1,
+        "message": "What is bear market?",
+        "response": "{\"type\":\"topic\",\"topic\":\"error\",\"explanation\":\"I apologize, but I couldn't generate personalized advice at this moment.\",\"keyPoints\":[\"For your conservative risk profile, try asking about specific investments\",\"Given the neutral market, consider asking about defensive or growth strategies\",\"You can ask about US stocks, Indian stocks, or portfolio allocation\"]}",
+        "id": 4,
+        "createdAt": "2025-05-02T11:27:34.348Z"
+      }
+    ],
+    "2": [],
+    "3": []
+  },
+  "goals": {
+    "1": [],
+    "2": [],
+    "3": []
+  },
+  "currentId": 5
+}
